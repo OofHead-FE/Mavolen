@@ -10,7 +10,7 @@ local wls = {
 }
 
 local plr = game.Players.LocalPlayer
-if plr.UserId == wls.ROBLOX or wls.k1 or wls.k2 or wls.k3 or wls.k4 or wls.k5 or wls.k6 or wls.k7 then
+if plr.UserId == wls.ROBLOX or plr.UserId == wls.k1 or plr.UserId == wls.k2 or plr.UserId == wls.k3 or plr.UserId == wls.k4 or plr.UserId == wls.k5 or plr.UserId == wls.k6 or plr.UserId == wls.k7 then
     _G.sigmapr = true
     _G.mavolenPrivate = true
 else
