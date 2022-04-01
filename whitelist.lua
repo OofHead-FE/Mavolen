@@ -6,7 +6,7 @@ local wls = {
     k4 = 3358804692,
     k5 = 3421560156,
     k6 = 3399376797,
-    k7 = 3429770627
+    k7 = 6872265039
 }
 
 local plr = game.Players.LocalPlayer
