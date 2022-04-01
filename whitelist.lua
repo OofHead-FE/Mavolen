@@ -13,4 +13,7 @@ local plr = game.Players.LocalPlayer
 if plr.UserId == wls.ROBLOX or wls.k1 or wls.k2 or wls.k3 or wls.k4 or wls.k5 or wls.k6 or wls.k7 then
     _G.sigmapr = true
     _G.mavolenPrivate = true
+else
+return
+
 end
