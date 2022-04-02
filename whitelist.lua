@@ -25,7 +25,8 @@ _G.sigmapr = true
 _G.mavolenPrivate = true
 
 else
-
+_G.sigmapr = false
+_G.mavolenPrivate = false
 return
 
 end
